@@ -5,3 +5,6 @@ git commit -m 'first commit' -- 提交更新，并注释信息“first commit”
 git remote add origin (地址) -- 连接远程github项目
 git push -u origin master -- 将本地项目更新到github项目上去
 git remote rm origin -- 删除github连接
+
+https: https://github.com/用户名/GitTest.git 
+ssh: git@github.com:用户名/GitTest.git 

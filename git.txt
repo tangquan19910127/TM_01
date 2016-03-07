@@ -1,1 +1,7 @@
-dsdssssssssssssssssss
+git命令
+git init -- 初始化
+git add (文件) -- 更新文件
+git commit -m 'first commit' -- 提交更新，并注释信息“first commit”
+git remote add origin (地址) -- 连接远程github项目
+git push -u origin master -- 将本地项目更新到github项目上去
+git remote rm origin -- 删除github连接

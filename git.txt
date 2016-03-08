@@ -1,12 +1,12 @@
-gitÃüÁî
-git init -- ³õÊ¼»¯
-git add (ÎÄ¼ş) -- ¸üĞÂÎÄ¼ş
-git commit -m 'first commit' -- Ìá½»¸üĞÂ£¬²¢×¢ÊÍĞÅÏ¢¡°first commit¡±
-git remote add origin (µØÖ·) -- Á¬½ÓÔ¶³ÌgithubÏîÄ¿
-git push -u origin master -- ½«±¾µØÏîÄ¿¸üĞÂµ½githubÏîÄ¿ÉÏÈ¥
-git remote rm origin -- É¾³ıgithubÁ¬½Ó
-git clone (µØÖ·) -- ¿ËÂ¡ÎÄ¼ş
+gitå‘½ä»¤
+git init -- åˆå§‹åŒ–
+git add (æ–‡ä»¶) -- æ›´æ–°æ–‡ä»¶
+git commit -m 'first commit' -- æäº¤æ›´æ–°ï¼Œå¹¶æ³¨é‡Šä¿¡æ¯â€œfirst commitâ€
+git remote add origin (åœ°å€) -- è¿æ¥è¿œç¨‹githubé¡¹ç›®
+git push -u origin master -- å°†æœ¬åœ°é¡¹ç›®æ›´æ–°åˆ°githubé¡¹ç›®ä¸Šå»
+git remote rm origin -- åˆ é™¤githubè¿æ¥
+git clone (åœ°å€) -- å…‹éš†æ–‡ä»¶
 
-https: https://github.com/ÓÃ»§Ãû/GitTest.git 
-ssh: git@github.com:ÓÃ»§Ãû/GitTest.git
-
+https: https://github.com/ç”¨æˆ·å/GitTest.git 
+ssh: git@github.com:ç”¨æˆ·å/GitTest.git
+å¾—åˆ°

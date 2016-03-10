@@ -11,3 +11,4 @@ https: https://github.com/用户名/GitTest.git
 ssh: git@github.com:用户名/GitTest.git
 得到
 github第一次修改
+得到

@@ -10,4 +10,9 @@ git clone (地址) -- 克隆文件
 https: https://github.com/用户名/GitTest.git 
 ssh: git@github.com:用户名/GitTest.git
 得到
+<<<<<<< HEAD
 本地第一次修改
+=======
+github第一次修改
+得到
+>>>>>>> origin/testing

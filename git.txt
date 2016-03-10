@@ -16,3 +16,4 @@ ssh: git@github.com:用户名/GitTest.git
 github第一次修改
 得到
 >>>>>>> origin/testing
+带的动
